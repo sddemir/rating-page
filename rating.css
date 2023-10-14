@@ -1,1 +1,11 @@
-​
+.card{
+    border-radius: 5%;
+}
+
+.btnn{
+    border-radius: 50%;
+}
+#submit{
+    display: inline-block;
+    border-radius: 30%;
+}
